@@ -41,6 +41,7 @@ img {
   width: 100%; 
   border: 5px solid #07374a;
 }
+body, html { overflow-x:hidden; }
 
 body {
   height: 100%;
@@ -155,7 +156,7 @@ body > .container-fluid {
 
 .profile-img {
   margin-bottom: 15px;
-  width: 120px; }
+  width: 160px; }
 
 .about, .about-info, .about-tools, .about-last {
   padding: 4% 10% 1% 10%;
